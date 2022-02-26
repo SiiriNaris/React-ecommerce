@@ -1,0 +1,61 @@
+.container {
+  display: grid;
+  grid-template-areas:
+    'image description '
+    'info actions ';
+  grid-gap: 1rem;
+  max-height: calc(100vh - 180px);
+  overflow-y: auto;
+}
+.image {
+  margin-top: 20%;
+  grid-area: image;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.info {
+  grid-area: info;
+}
+.info h2 {
+  font-size: 1.3rem;
+}
+.info h1 {
+  font-size: 1rem;
+  margin: auto;
+  color: rgb(194, 165, 165);
+}
+.actions {
+  grid-area: actions;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+@media (min-width: 768px) {
+  .actions {
+    flex-direction: row;
+  }
+}
+
+.actions button {
+  margin-top: auto;
+  width: auto;
+  cursor: pointer;
+  font: inherit;
+  border: none;
+  background-color: rgb(177, 96, 83);
+  color: white;
+  padding: 0.75rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 25px;
+  font-weight: bold;
+}
+
+.actions button:hover,
+.actions button:active {
+  background-color: rgb(221, 142, 154);
+}

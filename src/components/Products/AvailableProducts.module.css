@@ -1,0 +1,17 @@
+.container {
+  margin-top: 1rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1rem;
+  margin: 2rem;
+}
+.loading {
+  text-align: center;
+  font-size: 2rem;
+  color: white;
+}
+.requestError {
+  text-align: center;
+  font-size: 2rem;
+  color: red;
+}

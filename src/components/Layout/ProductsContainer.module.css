@@ -1,0 +1,15 @@
+.container {
+  max-width: 2600px;
+  margin: 4rem;
+  padding: 0 2rem;
+  overflow: hidden;
+}
+h2 {
+  font-family: inherit;
+  color: rgb(190, 100, 90);
+  margin-bottom: 0.55rem;
+  line-height: 1.3rem;
+}
+.products {
+  padding: 2rem 0;
+}
