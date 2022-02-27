@@ -8,6 +8,13 @@ In the project directory, you can run:
 
 ### `npm start`
 
+### Setup environment locally.
+
+In order to get started locally you need to setup a local firebase storage in order to do so setup a new project in [firebase](https://firebase.google.com/)
+Once the created the real time database add an environment variable `REACT_APP_FIREBASE_URL` with the URL of the database
+
+### Running locally
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
