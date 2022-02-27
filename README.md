@@ -10,8 +10,13 @@ In the project directory, you can run:
 
 ### Setup environment locally.
 
-In order to get started locally you need to setup a local firebase storage in order to do so setup a new project in [firebase](https://firebase.google.com/)
-Once the created the real time database add an environment variable `REACT_APP_FIREBASE_URL` with the URL of the database
+In order to get started locally you need to setup a local firebase storage
+
+- setup a new project in [firebase](https://firebase.google.com/)
+- Choose a realtime database in test mode.
+- Make sure that read/write are true in the database rules.
+- Once created, add an environment variable `REACT_APP_FIREBASE_URL` with the URL of the database.
+- You can seed the database with sample information in `sample-product.json` file
 
 ### Running locally
 

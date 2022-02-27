@@ -1,0 +1,46 @@
+{
+  "products": {
+    "p1": {
+      "company": "Goodee",
+      "description": "An eco-friednly upcycled table set for kids.Made from ecothylene, the brands patented material that’s created from upcycled plastic toys, this tot-sized chair makes a design-forward addition to any space, from the playroom to the living room and even outdoors. Sturdy, ergonomic, easy to carry around and wipe clean — every detail is intentionally designed with the little ones in mind, from age 18 months up to 7 years old.',",
+      "img": "https://cdn.shopify.com/s/files/1/0071/1684/9252/products/Goodee-Ecobirdy-All-Bright-Set_1500x.jpg?v=1632948368",
+      "name": "Recycled Toys and Plastic Table Set for Kids",
+      "price": 130.99
+    },
+    "p2": {
+      "company": "Meb Rure",
+      "description": "Award-winning Istanbul-based designer Meb Rure turns fabric waste into this fantastic furniture. Legs are designed to be easily removable for more economic shipping. And the comfort of these pieces – you’ve all seen the mattress commercials where they promise more comfort with individual coils – this is that, expanded to other furniture.",
+      "img": "https://www.contemporist.com/wp-content/uploads/2013/10/mr_021013_05.jpg",
+      "name": "Recycled silk furniture",
+      "price": 300
+    },
+    "p3": {
+      "company": "John Smith",
+      "description": "A chair that looks like a carpet. Reusing old clothes donated by local people J.Smith designed a gardain chair that stands out. Amidst the colorful flowers or just lush green grass, the chair will bring joy and beauty to the garden. The chair is easily cleaned",
+      "img": "https://i.pinimg.com/736x/04/fb/56/04fb56f90a6f296772d9dbf75c44a040--colorful-chairs-colorful-furniture.jpg",
+      "name": "Recycled clothes outdoor chair",
+      "price": 80.99
+    },
+    "p4": {
+      "company": "DesignByThem",
+      "description": "Sydney-based studio, DesignByThem, has released a range of charming 100 percent recycled plastic furniture pieces. The Confetti Collection, designed by GibsonKarlo (Nicholas Karlovasitis & Sarah Gibson) is a colourful treat made up of planters, tables, stools and benches.Every piece in CONFETTI are made from recycled plastic, comes with a story and products include pots, stools, benches, side table, bar table, coffee table, dining table, and ottoman. Bold, colourful and textural, all items are highly durable, UV stable and the smooth plastic surface mean they are all easy to clean.  Every product is unique – no two products are completely alike",
+      "img": "https://images.squarespace-cdn.com/content/v1/5349c238e4b0bbdac301dbb0/1619586453192-AHM61Y49RGDQTJKNNXQ2/ADAM+ROBINSON+DESIGN+News+Blog+Designer+Recycled+Plastic+The+Confetti+Collection+03.jpg",
+      "name": "Confetti Coffee Table",
+      "price": 940.99
+    },
+    "p5": {
+      "company": "Dirk Vander Kooij",
+      "description": "The Meltingpot Table Multichrome perfectly showcase its ever-changing, mutable contents: reclaimed synthetics. Disparate sources maintain their individual properties through a house-developed extrusion process. A robotic arm works in collaboration with the designer’s hand. The gravity of the meltingpot table deceives its origins: refrigerator interiors, lawn furniture, and other discarded synthetics find new consequence as ubermaterial. Measuring a solid 30mm thick, the process reintroduces plastic as an indestructible and autonomous material. Once milled and polished, the final table consists of a circular plateau resting atop a conical base. Available in a range of four diameters, this versatile design is suitable as a bistro setting or family dining table.",
+      "img": "https://www.rossanaorlandi.com/wp-content/uploads/2019/01/Dirk-Vander-Kooij-Meltingpot-table-multichrome-1000x1000.jpg",
+      "name": "Meltingpot Table Multichrome",
+      "price": 1550.99
+    },
+    "p6": {
+      "company": "Peggy Gou",
+      "description": "Though Space Available was only founded in 2020, its recycled homewares have already made big waves in the interiors world. The Balinese brand partnered with DJ Peggy Gou for this chair, which is created by melting down plastic waste found on the streets of Java and marbling it by hand before assembling the upcycled sheets into a seat. The storage unit beneath is sized specifically for holding vinyl records, so set it up as a listening station beside your deck.",
+      "img": "https://static.dezeen.com/uploads/2021/06/peggy-gou-space-available-chair_dezeen_2364_col_5-1-scaled.jpg",
+      "name": "Marble-effect Recycled Plastic Chair",
+      "price": 1007.49
+    }
+  }
+}
