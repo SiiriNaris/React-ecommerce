@@ -1,3 +1,6 @@
+# Product description
+A Single Page React Application about ordering eco-friendly products.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
