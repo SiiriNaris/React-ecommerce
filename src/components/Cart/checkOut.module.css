@@ -44,6 +44,13 @@ form {
   border-color: white;
   color: white;
 }
+.actions button:disabled,
+.actions button:disabled:hover,
+.actions button:disabled:active {
+  background-color: #ccc;
+  color: white;
+  cursor: not-allowed;
+}
 
 .actions .submit {
   background-color: rgb(236, 175, 185);
