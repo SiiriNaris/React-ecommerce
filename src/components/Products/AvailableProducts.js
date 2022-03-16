@@ -72,7 +72,11 @@ const AvailableProducts = (props) => {
   }
 
   const productList = products.map((product) => (
-    <ProductItem onShowSummary={showSummaryHandler} product={product} />
+    <ProductItem
+      onShowSummary={showSummaryHandler}
+      key={product.key}
+      product={product}
+    />
   ))
 
   return (

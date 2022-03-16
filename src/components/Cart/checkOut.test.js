@@ -7,7 +7,6 @@ describe('testing name input', () => {
   test('name input field is shown', () => {
     // ARRANGE
     render(<CheckOut />)
-
     // ACT
     // ...
     // ASSERT;
@@ -35,7 +34,6 @@ describe('testing name input', () => {
     nameInput.focus()
     streetInput.focus()
     const target = screen.getByText('Please enter a valid name')
-    console.log(target)
     expect(target).toBeInTheDocument()
   })
 })
